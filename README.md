@@ -1,5 +1,9 @@
 # Ardurino-flash backup AT firmware to ESP8266
 
+## firmwares
+- ESP8266_AT_V00180902_04.bin: Vendor:www.ai-thinker.com Version:0.9.2.4 9600
+- ESP_8266_BIN0.92.bin: ?, 115200
+
 ## How to
 
 Flash AT commands firmware in ESP8266 ESP-01 device
