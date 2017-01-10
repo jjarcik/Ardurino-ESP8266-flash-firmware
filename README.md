@@ -31,5 +31,8 @@ Do the following steps to download and Flash AT command firmware into the module
 http://www.instructables.com/id/Intro-Esp-8266-firmware-update/?ALLSTEPS
 http://esp8266internetofthings.blogspot.cz/2015/10/how-to-flash-at-commands-firmware-in.html
 http://www.espruino.com/ESP8266
-
 http://www.esp8266.com/viewtopic.php?f=6&t=8255
+
+
+## Jiný způsob a firmware
+http://remotexy.com/en/help/esp8266-firmware-update/
