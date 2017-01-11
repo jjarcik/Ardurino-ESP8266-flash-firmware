@@ -29,15 +29,15 @@ Do the following steps to download and Flash AT command firmware into the module
 6. Done!
 
 ### Sources
-http://www.instructables.com/id/Intro-Esp-8266-firmware-update/?ALLSTEPS
-http://esp8266internetofthings.blogspot.cz/2015/10/how-to-flash-at-commands-firmware-in.html
-http://www.espruino.com/ESP8266
-http://www.esp8266.com/viewtopic.php?f=6&t=8255
+- http://www.instructables.com/id/Intro-Esp-8266-firmware-update/?ALLSTEPS
+- http://esp8266internetofthings.blogspot.cz/2015/10/how-to-flash-at-commands-firmware-in.html
+- http://www.espruino.com/ESP8266
+- http://www.esp8266.com/viewtopic.php?f=6&t=8255
 
 
 ## or try this tutorials
-http://remotexy.com/en/help/esp8266-firmware-update/
-http://www.allaboutcircuits.com/projects/update-the-firmware-in-your-esp8266-wi-fi-module/
+- http://remotexy.com/en/help/esp8266-firmware-update/
+- http://www.allaboutcircuits.com/projects/update-the-firmware-in-your-esp8266-wi-fi-module/
 
 ### firmware for johny-five
-http://wifinodebot.blogspot.cz/2016/02/flashing-esp8266-firmware.html
+- http://wifinodebot.blogspot.cz/2016/02/flashing-esp8266-firmware.html
