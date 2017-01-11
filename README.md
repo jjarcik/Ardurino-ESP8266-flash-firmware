@@ -34,5 +34,9 @@ http://www.espruino.com/ESP8266
 http://www.esp8266.com/viewtopic.php?f=6&t=8255
 
 
-## Jiný způsob a firmware
+## or try this tutorials
 http://remotexy.com/en/help/esp8266-firmware-update/
+http://www.allaboutcircuits.com/projects/update-the-firmware-in-your-esp8266-wi-fi-module/
+
+### firmware for johny-five
+http://wifinodebot.blogspot.cz/2016/02/flashing-esp8266-firmware.html
