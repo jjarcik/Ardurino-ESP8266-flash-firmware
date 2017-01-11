@@ -33,6 +33,7 @@ Do the following steps to download and Flash AT command firmware into the module
 - http://esp8266internetofthings.blogspot.cz/2015/10/how-to-flash-at-commands-firmware-in.html
 - http://www.espruino.com/ESP8266
 - http://www.esp8266.com/viewtopic.php?f=6&t=8255
+- http://yaab-arduino.blogspot.cz/2015/12/flashing-esp8266-firmware-arduino.html
 
 
 ## or try this tutorials
