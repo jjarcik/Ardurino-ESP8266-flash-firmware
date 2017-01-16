@@ -9,9 +9,14 @@
 | Vcc | 3.3V |
 
 ## Tools for update firmware
-esp8266 Flash Downloader
-
+### esp8266 Flash Downloader
 <img src="https://raw.githubusercontent.com/jjarcik/Ardurino-ESP8266-flash-firmware/master/_esp8266_flasher.jpg" width=200>
+
+### Esp download tool v2.4
+<img src="https://raw.githubusercontent.com/jjarcik/Ardurino-ESP8266-flash-firmware/master/_ESP_DOWNLOAD_TOOL_V2.4.jpg" width=200>
+
+http://espressif.com/en/products/hardware/esp8266ex/resources
+
 
 ## firmwares
 - ESP8266_AT_V00180902_04.bin: Vendor:www.ai-thinker.com Version:0.9.2.4 9600
