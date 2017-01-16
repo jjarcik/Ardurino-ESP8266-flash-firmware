@@ -34,7 +34,7 @@ http://espressif.com/en/products/hardware/esp8266ex/resources
 - AT version:0.50.0.0(Sep 18 2015 20:55:38)
 - SDK version:1.4.0
 - compile time:Sep 18 2015 21:46:52
-- baudrate: 115200 (you can use command: AT+IPR=9600 for set the baudrate)
+- baudrate: 115200 (you can use command: AT+UART_DEF=9600,8,1,0,0 for set the baudrate)
 
 
 ### Johny Five
