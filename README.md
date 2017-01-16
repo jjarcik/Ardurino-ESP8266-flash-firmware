@@ -25,13 +25,14 @@ http://espressif.com/en/products/hardware/esp8266ex/resources
 - Version:0.9.2.4 (0018000902-AI03)
 - baudrate: 9600 
 
-### ESP_8266_BIN0.92.bin: 115200
+### ESP_8266_BIN0.92.bin: 
+- baudrate 115200
 
 ### esp8266_nonos_sdk_v1.4.0_15_09_18_0.rar
 - AT version:0.50.0.0(Sep 18 2015 20:55:38)
 - SDK version:1.4.0
 - compile time:Sep 18 2015 21:46:52
-- baudrate: 115200 
+- baudrate: 115200 (you can use command: AT+IPR=9600 for set the baudrate)
 
 
 ### Johny Five
