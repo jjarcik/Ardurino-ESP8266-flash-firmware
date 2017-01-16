@@ -1,4 +1,6 @@
 # Ardurino-flash backup AT firmware to ESP8266
+please upload bare minimum to Arduino before updat firmware
+
 
 | esp8266 | Arduino |
 | ------- |:-------:|
