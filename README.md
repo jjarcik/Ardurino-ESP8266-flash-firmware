@@ -5,6 +5,8 @@
 | RX | RX |
 | TX | TX |
 | GPIO 0 | GND |
+| CH_PD| 3.3V |
+| Vcc | 3.3V |
 
 
 ## firmwares
